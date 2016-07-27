@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Kali/Documents/ISIR/vrpn-master/client_src/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Kali\Documents\ISIR\vrpn-master\BUILD\client_src\CMakeFiles\generate.stamp is up-to-date.
+  sound_client.C
+  sound_client.vcxproj -> C:\Users\Kali\Documents\ISIR\vrpn-master\BUILD\client_src\Release\sound_client.exe

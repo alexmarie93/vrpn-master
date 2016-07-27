@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/Kali/Documents/ISIR/vrpn-master/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Kali\Documents\ISIR\vrpn-master\BUILD\CMakeFiles\generate.stamp is up-to-date.
+  time_test.cpp
+C:\Users\Kali\Documents\ISIR\vrpn-master\time_test.cpp(56): warning C4996: '_ftime64': This function or variable may be unsafe. Consider using _ftime64_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\sys/timeb.h(76): note: voir la déclaration de '_ftime64'
+  time_test.vcxproj -> C:\Users\Kali\Documents\ISIR\vrpn-master\BUILD\Release\time_test.exe

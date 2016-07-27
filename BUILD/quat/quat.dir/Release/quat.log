@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/Kali/Documents/ISIR/vrpn-master/quat/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Kali\Documents\ISIR\vrpn-master\BUILD\quat\CMakeFiles\generate.stamp is up-to-date.
+  matrix.c
+  quat.c
+  vector.c
+  xyzquat.c
+  quat.vcxproj -> C:\Users\Kali\Documents\ISIR\vrpn-master\BUILD\quat\Release\quat.lib

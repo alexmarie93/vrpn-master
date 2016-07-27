@@ -1,0 +1,11 @@
+# CMake generation dependency list for this directory.
+C:/Users/Kali/Documents/ISIR/vrpn-master/doxygen/CMakeLists.txt
+C:/Users/Kali/Documents/ISIR/vrpn-master/cmake/DoxygenTargets.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindDoxygen.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindLATEX.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeParseArguments.cmake

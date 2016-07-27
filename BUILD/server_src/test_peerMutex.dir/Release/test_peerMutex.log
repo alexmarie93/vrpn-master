@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Kali/Documents/ISIR/vrpn-master/server_src/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Kali\Documents\ISIR\vrpn-master\BUILD\server_src\CMakeFiles\generate.stamp is up-to-date.
+  test_peerMutex.C
+  test_peerMutex.vcxproj -> C:\Users\Kali\Documents\ISIR\vrpn-master\BUILD\server_src\Release\test_peerMutex.exe

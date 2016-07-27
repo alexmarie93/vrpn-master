@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Kali\Documents\ISIR\vrpn-master\BUILD\CMakeFiles\cf94ea5f8f3a2f38af6f5512ff23111b\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3783C426-2C50-3AC9-AEEC-4981F3ACB127}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

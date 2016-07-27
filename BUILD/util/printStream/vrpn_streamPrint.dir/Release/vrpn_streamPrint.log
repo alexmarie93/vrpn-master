@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Kali/Documents/ISIR/vrpn-master/util/printStream/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Kali\Documents\ISIR\vrpn-master\BUILD\util\printStream\CMakeFiles\generate.stamp is up-to-date.
+  vrpn_streamPrint.cpp
+  vrpn_streamPrint.vcxproj -> C:\Users\Kali\Documents\ISIR\vrpn-master\BUILD\util\printStream\Release\vrpn_streamPrint.exe
